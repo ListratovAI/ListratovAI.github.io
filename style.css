@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    height: 100%;
+}
+.container {
+    background: radial-gradient(white,#617DBF);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.ugol {
+    background: url(3ugol.png) 50% 50% no-repeat;
+    background-size: 350px 300px;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.content {
+    font-family: 'Roboto', sans-serif;
+}
+.knowlege {
+    padding-top: 260px;
+}
+.power {
+    margin-top: 15px;
+}
+.button {
+    margin-top: 50px;
+    width: 300px;
+    height: 100px;
+    background: #FDDE98;
+    border: 5px solid #661465;
+    box-sizing: border-box;
+    border-radius: 20px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    color: #34497B;
+}
+.button:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
