@@ -73,8 +73,8 @@ color: #FFFFFF;
 margin-bottom: 0px;
     }
     .button {
-        width: 250px;
-height: 50px;
+        width: 283px;
+height: 83px;
         background: #FAFCFB;
         border: 10px solid #C9AF73;
         box-shadow: 4px 4px 4px rgba(255, 255, 255, 0.25);
@@ -82,5 +82,9 @@ height: 50px;
         margin-bottom: 20px;
         margin-left: 0px;
         margin-right: 0px;
+    }
+    .answer {
+        font-size: 18px;
+        line-height: 22px;
     }
 }
