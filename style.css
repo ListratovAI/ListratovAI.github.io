@@ -47,3 +47,7 @@ body{
     text-decoration: underline;
     cursor: pointer;
 }
+.start {
+    color: #34497B;
+    text-decoration: none;
+}
