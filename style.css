@@ -43,7 +43,7 @@ body{
     font-size: 30px;
     color: #34497B;
 }
-.button:hover {
+.start:hover {
     text-decoration: underline;
     cursor: pointer;
 }

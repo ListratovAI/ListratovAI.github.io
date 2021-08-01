@@ -58,7 +58,7 @@ color: #87B074;
     text-decoration: underline;
     cursor: pointer;
 }
-/* @media (max-width: 1135px) {
+@media (max-width: 1135px) {
     .question {
         width: 299px;
 height: 72px;
@@ -83,4 +83,4 @@ height: 50px;
         margin-left: 0px;
         margin-right: 0px;
     }
-} */
+}
